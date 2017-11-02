@@ -1,5 +1,3 @@
-# bootstrap-examples
-
-**Hosted at:** https://baelx.github.io/bootstrap-examples/
+# bootstrap-examples-&-templates
 
 **Image Column Layout:** https://baelx.github.io/bootstrap-examples/image-column-layout.html
